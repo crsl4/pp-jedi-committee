@@ -1,6 +1,7 @@
 .container .content {
   display: none;
   padding: 5px;
+  padding-top: 10px;
 }
 
 .accordion-item {
